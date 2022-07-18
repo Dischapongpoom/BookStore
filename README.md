@@ -1,7 +1,9 @@
 # [Nodejs + Express + Mongodb]  
 ![enter image description here](https://d33wubrfki0l68.cloudfront.net/ee5af837fdabb4d29b35d25748c0072d1816c255/3f3a0/public/assets/images/jxavz9h.png)  
 > ### [Nodejs + Express + Mongodb]
-This codebase was created to demonstrate an application built with **Nodejs + express + MongoDB** including CRUD operations, authentication, routing
+This Project was created to demonstrate an application built with **Nodejs + express + MongoDB** including CRUD operations, authentication, routing
+
+This Project is about book store back-end, You can wirte a book and then publish the your book
 
 # Endpoints 
 ### User
